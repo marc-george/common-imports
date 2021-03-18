@@ -1,0 +1,22 @@
+{
+  "name": "common-imports",
+  "authors": [
+    "212604718 <anuj.parikh@ge.com>"
+  ],
+  "description": "common imports for html ref import",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "fuse.js": "^3.0.0"
+  }
+}
